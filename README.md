@@ -1,8 +1,4 @@
-# Collab Notes
-
-A collaborative notes application.
-
-## Screenshots
+# Collab Notes - UI Screenshots
 
 ### Login Page
 ![Login Page](src/assets/login.png)
