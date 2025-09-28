@@ -13,6 +13,9 @@ A collaborative notes application.
 ### Local Storage (Data stored mapped to each user via userId)
 ![Local Storage](src/assets/LocalStorage.png)
 
+### Form to Create or Update a note
+![Note Form](src/assets/noteform.png)
+
 ### Categories Page
 ![Categories Page](src/assets/category.png)
 
